@@ -1,0 +1,27 @@
+header {
+    height: 80px;
+    background-color: darkred;
+}
+#lewy {
+    width: 25%;
+    height: 400px;
+    background-color: yellow;
+    float: left;
+}
+#srodkowy {
+    width: 50%;
+    height: 400px;
+    background-color: white;
+    float: left;
+}
+#prawy {
+    width: 25%;
+    height: 400px;
+    background-color: lightgreen;
+    float: left;
+}
+footer {
+    height: 60px;
+    background-color: black;
+    clear : both;
+}

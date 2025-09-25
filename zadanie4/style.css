@@ -1,0 +1,22 @@
+header {
+    height: 100px;
+    background-color: purple;
+}
+#lewy {
+    width: 33%;
+    height: 250px;
+    background-color: pink;
+    float: left;
+}
+#srodkowy {
+    width: 33%;
+    height: 250px;
+    background-color: lightgreen;
+    float: left;
+}
+#prawy {
+    width: 33%;
+    height: 250px;
+    background-color: lightblue;
+    float: left;
+}
