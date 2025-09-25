@@ -4,7 +4,9 @@ header {
 }
 nav {
     height: 50px;
+    width: 100%;
     background-color: gray;
+    float: left;
 }main {
     height: 300px;
     width: 60%;
