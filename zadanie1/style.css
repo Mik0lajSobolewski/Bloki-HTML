@@ -1,34 +1,16 @@
-#jeden {
-    background-color: red;
-    width: 75%;
-    height: 150px;
-    float: right;
-}
-
-#dwa {
-    background-color: blue;
-    width: 25%;
-    height: 750px;
-    float: left;
-}
-
-#trzy {
-    background-color: green;
-    width: 50%;
-    height: 600px;
-    float: left;
-}
-
-#cztery {
-    background-color: yellow;
-    width: 25%;
-    height: 600px;
-    float: left;
-}
-
-#pięć {
-    background-color: purple;
-    width: 100%;
+header {
     height: 100px;
-    clear: both;
+    width: 100%;
+    background-color: lightblue;
+}
+
+main {
+    height: 300px;
+    width: 70%;
+    background-color: lightgray;
+}
+
+footer {
+    height: 80px;
+    background-color: black;
 }
